@@ -211,13 +211,3 @@ body {
     height:400px;
 }
 
-.kakaoadtop {
-    padding-left: 30%;
-    padding-right: 30%;
-}
-@media screen and(max-width:600) {
-    .kakaotop {
-        width:260px;
-        height:30px;
-    }
-}
