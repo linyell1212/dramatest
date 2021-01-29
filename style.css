@@ -217,7 +217,7 @@ body {
 }
 @media screen and(max-width:600) {
     .kakaotop {
-        width:260;
-        height:30;
+        width:260px;
+        height:30px;
     }
 }
