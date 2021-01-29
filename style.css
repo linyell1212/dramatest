@@ -201,3 +201,8 @@ body {
 .onlyyou {
     color:#ececec00;
 }
+@media screen and (max-width:600px) {
+    .container {
+        height:550px;
+    }
+}
