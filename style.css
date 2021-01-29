@@ -215,3 +215,9 @@ body {
     padding-left: 30%;
     padding-right: 30%;
 }
+@media screen and(max-width:600) {
+    .kakaotop {
+        width:260;
+        height:30;
+    }
+}
