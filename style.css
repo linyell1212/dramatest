@@ -203,13 +203,13 @@ body {
 }
 @media screen and (max-width:600px) {
     .container {
-        height:550px;
+        height:650px;
     }
 }
 .ppl {
     width:100px;
     height:400px;
 }
-.kakaoadbottom {
-    margin-top:20px;
-}
+/* @media screen and(max-width:600px) {
+    .container
+} */
