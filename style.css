@@ -191,7 +191,7 @@ body {
 }
 .container{
     background-color:#ececec;
-    height:630px;
+    height:700px;
 }
 .file-upload-content {
     text-align: center;
@@ -210,4 +210,6 @@ body {
     width:100px;
     height:400px;
 }
-
+.kakaoadbottom {
+    margin-top:20px;
+}
