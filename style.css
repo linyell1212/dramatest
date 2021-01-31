@@ -170,7 +170,7 @@ body {
     border-color:#cc00bc;
 } */
 .image-upload-wrap {
-    border:4px dashed #cc00bc;
+    border:4px dashed #2ECCFA;
     height:400px;
 }
 @media screen and (max-width:600px) {
@@ -190,7 +190,7 @@ body {
     font-weight:bolder;
 }
 .container{
-    background-color:#F5A9D0;
+    background-color:#F8E0EC;
     height:700px;
 }
 .file-upload-content {
